@@ -5,3 +5,4 @@ note that to update the calculated values you need to refresh the page
 
 Username: postgress
 password:postgres_password
+databasename: fibvalues
